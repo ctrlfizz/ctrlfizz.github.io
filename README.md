@@ -1,2 +1,2 @@
 # ctrlfizz.github.io
-Company Homepage
+Landing page
